@@ -1,0 +1,1 @@
+// https://scryfall.com/  --> MTG API Location
